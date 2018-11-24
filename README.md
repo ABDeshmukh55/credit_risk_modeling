@@ -4,18 +4,16 @@
 We are building ML model which can help us in order get an idea, whether a person will be doing any default activity for his loan in next 2 year.
 
 Dependency Libraries
-
-Python 3
-pandas
-numpy
-scipy
-scikit-learn
-matplotlib
-seaborn
-jupyter notebook
+•	Python 2.7
+•	pandas
+•	numpy
+•	scipy
+•	scikit-learn
+•	matplotlib
+•	seaborn
+•	jupyter notebook
 Installation Commands
 I'm working on Linux OS (Ubuntu 16.04 LTS) so command for installating all dependancies are given below.
-
 Pandas:           $ sudo pip install pandas
 numpy:            $ sudo pip install numpy
 scipy:            $ sudo pip install scipy
